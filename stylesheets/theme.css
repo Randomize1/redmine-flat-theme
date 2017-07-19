@@ -1115,8 +1115,9 @@ select {
     border: 1px solid #b8b8b8;
     border-radius: 5px;
     box-sizing: border-box;
-    height: 25px;
-    padding-left: 5px;
+    height: auto;
+    padding: 5px 10px;
+    font-size: 16px;
 }
 
 input[type='button'],
@@ -1231,7 +1232,9 @@ textarea {
     border: 1px solid #b8b8b8;
     border-radius: 5px;
     box-sizing: border-box;
-    padding-left: 5px;
+    height: auto;
+    padding: 5px 10px;
+    font-size: 16px;
 }
 
 tr.builtin td.name,
