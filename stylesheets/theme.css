@@ -861,6 +861,9 @@ input#time_entry_comments {
 .tabular.settings p {
     font-size: 14px;
     font-weight: 400;
+    width: 100%;
+    text-align: left;
+    margin-left: 0;
 }
 
 .tabular.settings label {
